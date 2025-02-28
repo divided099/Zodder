@@ -4,7 +4,7 @@
 
 ZOD is a language I invented, yay!
 
-I can't even speak it though, but luckily I made an English - ZOD conversion program, that can also convert many other npc languages to ZOD, it's fantastic, it's called ZODDER, ZODDER this (ZOD language insert here)
+I can't even speak it though, but luckily I made an English - ZOD conversion program, that can also convert many other npc languages to ZOD, it's fantastic, it's called ZODDER, ZODDER this (T'W GYMOX, XKOP WK XJZMOM)
 
 
 also NOT programmed by ChatGPT, I pinky promise uwu
